@@ -1,0 +1,43 @@
+.nav-nav {
+     text-decoration: none;
+     color:rgb(163, 152, 152);
+     font-weight: 700;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    
+}
+.nav-nav:hover { 
+    color: black;
+}
+.nav {
+    color:black
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: solid silver;
+    padding: 20px;
+    box-shadow: silver;
+}
+
+
+h1 { 
+   color: red;
+
+}
+
+main { 
+    background-color: silver;
+}
+
+img { 
+    width: 400px;
+    height: 500px;
+
+ }
+
+ .pe { 
+     text-align: center;
+ }
+
